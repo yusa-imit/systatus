@@ -48,7 +48,7 @@ function App() {
         </div>
       </div>
 
-      <p>{greetMsg}</p>
+      <p>{greetMsg()}</p>
     </div>
   )
 }
